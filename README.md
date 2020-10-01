@@ -2,6 +2,6 @@
 
 ## Introduction
 
-## Scop
+## Scope
 
 ## Usage
